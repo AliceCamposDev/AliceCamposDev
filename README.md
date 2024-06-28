@@ -4,7 +4,7 @@
 |------------------------------------------------------------------------------------------------------------------------------|
 | <br><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceCamposDev&layout=compact&langs_count=7&theme=dracula&border_color=ff6e96" width="60%" ></div><br> |
 
-- 📚 Languages: I speak Portuguease and English and I'm learnning German 
+- 📚 Languages: I speak Portuguease, English and I'm learnning German 
 - 🌱 I’m currently learning React and Node.Js
 - [🛥] Working as intern with React, Node and Mongo 
 - 📫 How to reach me: discord (.pan) or e-mail (allicefcampos@gmail.com)
