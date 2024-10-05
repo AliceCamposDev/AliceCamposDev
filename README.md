@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hello!! Welcome to my profile 😀
 
-<!--
-**AliceCamposDev/AliceCamposDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| <br><img src="https://25.media.tumblr.com/99ee923212b0aa54ea03c6717baccf39/tumblr_mp0k07DnzH1sucxz9o1_500.gif" width="50%" ><br><br><p align="left">- Computer Science student</p><p align="left">- IT technician</p><p align="left">- Programming enthusiast</p> |
+|------------------------------------------------------------------------------------------------------------------------------|
+| <br><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceCamposDev&layout=compact&langs_count=7&theme=dracula&border_color=ff6e96" width="60%" ></div><br> |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎂 21 years old
+- 📚 Languages: I speak Portuguease and English
+- [🚢] 6 months of expirience Working as intern with React (Ts), Node.js and Mongo.db 
+- 📫 How to reach me: discord (.pan) or e-mail (allicefcampos@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a RPG nerd
