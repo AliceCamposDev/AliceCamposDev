@@ -6,7 +6,8 @@
 
 - 🎂 21 years old
 - 📚 Languages: I speak Portuguease and English
-- [🚢] 6 months of expirience Working as intern with React (Ts), Node.js and Mongo.db 
+- 🧪 6 months of expirience Working as intern with React (Ts), Node.js and MongoDB
+- [🚢] Working with Data Science as intern
 - 📫 How to reach me: discord (.pan) or e-mail (allicefcampos@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a RPG nerd
