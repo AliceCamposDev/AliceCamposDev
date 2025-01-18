@@ -1,4 +1,4 @@
-### Hello!! Welcome to my profile 😀
+### Hello!! Welcome to my profile!
 
 | <br><img src="https://25.media.tumblr.com/99ee923212b0aa54ea03c6717baccf39/tumblr_mp0k07DnzH1sucxz9o1_500.gif" width="50%" ><br><br><p align="left">- Computer Science student</p><p align="left">- IT technician</p><p align="left">- Programming enthusiast</p> |
 |------------------------------------------------------------------------------------------------------------------------------|
@@ -6,8 +6,7 @@
 
 - 🎂 21 years old
 - 📚 Languages: I speak Portuguease and English
-- 🧪 6 months of expirience Working as intern with React (Ts), Node.js and MongoDB
 - [🚢] Working with Data Science as intern
-- 📫 How to reach me: discord (.pan) or e-mail (allicefcampos@gmail.com)
+- 📫 How to reach me: discord (okay_darling) or e-mail (allicefcampos@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a RPG nerd
+- 🎲 Fun fact: I'm a RPG nerd
