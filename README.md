@@ -9,4 +9,4 @@
 - [🚢] Working with Data Science as intern
 - 📫 How to reach me: discord (okay_darling) or e-mail (allicefcampos@gmail.com)
 - 😄 Pronouns: She/Her
-- 🎲 Fun fact: I'm a RPG nerd
+- 🎲 Fun fact: I'm a TTRPG nerd
