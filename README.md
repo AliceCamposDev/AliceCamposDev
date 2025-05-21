@@ -4,7 +4,7 @@
 |------------------------------------------------------------------------------------------------------------------------------|
 | <br><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceCamposDev&layout=compact&langs_count=20&theme=dracula&border_color=ff6e96" width="60%" ></div><br>|
 
-- 🎂 21 years old
+- 🎂 22 years old
 - 📚 Languages: I speak Portuguese and English
 - [🚢] Working with Data Science as intern
 - 📫 How to reach me: discord (okay_darling) or e-mail (allicefcampos@gmail.com)
