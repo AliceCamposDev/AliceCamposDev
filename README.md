@@ -1,6 +1,6 @@
 <h3 align="center">🖤 Hello!! Welcome to my profile! 💜</h3>
 <div align="center">
-<a href="https://alice-portfolio-five.vercel.app/">Check my potyifolio here 🧹</a>
+<a href="https://alice-portfolio-five.vercel.app/">Check my portfolio here 🧹</a>
 <br/><br/>
 <table>
   <tr>
