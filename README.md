@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceCamposDev&layout=compact&langs_count=20&theme=midnight-purple&border_color=ff6e96" width="300px" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AliceCamposDev&layout=compact&langs_count=20&theme=midnight-purple&border_color=ff6e96" width="300px" />
     </td>
   </tr>
 </table>
