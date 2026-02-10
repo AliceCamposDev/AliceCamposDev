@@ -1,6 +1,6 @@
 <h3 align="center">🖤 Hello!! Welcome to my profile! 💜</h3>
 <div align="center">
-<a href="allice.gay">Check my portfolio here 🧹</a>
+<a href="https://allice.gay">Check my portfolio here 🧹</a>
 <br/><br/>
 <table>
   <tr>
