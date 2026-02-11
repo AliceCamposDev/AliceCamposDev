@@ -1,7 +1,8 @@
 <h3 align="center">🖤 Hello!! Welcome to my profile! 💜</h3>
 <div align="center">
 <a href="https://allice.gay">Check my portfolio here 🧹</a>
-<a href="[https://allice.gay](https://alice-portfolio-five.vercel.app/)">Or here (im working to fix my self-hosted site)</a>
+</br>
+<a href="https://alice-portfolio-five.vercel.app/">Or here (im working to fix my self-hosted site)</a>
 <br/><br/>
 <table>
   <tr>
