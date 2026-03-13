@@ -2,7 +2,6 @@
 <div align="center">
 <a href="https://allice.gay">Check my portfolio here 🧹</a>
 </br>
-<a href="https://alice-portfolio-five.vercel.app/">Or here (im working to fix my self-hosted site)</a>
 <br/><br/>
 <table>
   <tr>
