@@ -13,18 +13,12 @@
   <a href="https://allice.gay">
     <img src="https://img.shields.io/badge/🌙_Portfolio-allice.gay-8A2BE2?style=for-the-badge&labelColor=1a001f">
   </a>
-  &nbsp;
-  &nbsp;
   
   <a href="mailto:allicefcampos@gmail.com">
     <img src="https://img.shields.io/badge/📫_Email-allicefcampos@gmail.com-8A2BE2?style=for-the-badge&labelColor=1a001f">
   </a>
-  &nbsp;
-  &nbsp;
   
   <img src="https://img.shields.io/badge/💬_Discord-okay__darling-8A2BE2?style=for-the-badge&labelColor=1a001f">
-  &nbsp;
-  &nbsp;
   
   <img src="https://komarev.com/ghpvc/?username=AliceCamposDev&color=8A2BE2&style=for-the-badge">
 </p>
