@@ -1,24 +1,57 @@
-<h3 align="center">🖤 Hello!! Welcome to my profile! 💜</h3>
 <div align="center">
-<a href="https://allice.gay">Check my portfolio here 🧹</a>
-</br>
-<br/><br/>
-<table>
-  <tr>
-    <td style="vertical-align: top; text-align: left;">
-      <ul>
-        <li>🎂 <strong>22 years old</strong></li>
-        <li>📚 <strong>Languages:</strong> Portuguese & English</li>
-        <li>🚢 <strong>Data Science intern</strong></li>
-        <li>📫 <strong>Discord:</strong> okay_darling</li>
-        <li>📧 <strong>Email:</strong> allicefcampos@gmail.com</li>
-        <li>😄 <strong>Pronouns:</strong> She/Her</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AliceCamposDev&layout=compact&langs_count=20&theme=midnight-purple&border_color=ff6e96" width="300px" />
-    </td>
-  </tr>
-</table>
+
+# 🖤 Alice Campos 💜
+
+### *Data Scientist • Full Stack Dev*
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AliceCamposDev&layout=compact&langs_count=20&theme=midnight-purple&border_color=ff6e96" width="300px" />
+
+<br>
+<br>
+
+<p align="center">
+  <a href="https://allice.gay">
+    <img src="https://img.shields.io/badge/🌙_Portfolio-allice.gay-8A2BE2?style=for-the-badge&labelColor=1a001f">
+  </a>
+  &nbsp;
+  &nbsp;
+  
+  <a href="mailto:allicefcampos@gmail.com">
+    <img src="https://img.shields.io/badge/📫_Email-allicefcampos@gmail.com-8A2BE2?style=for-the-badge&labelColor=1a001f">
+  </a>
+  &nbsp;
+  &nbsp;
+  
+  <img src="https://img.shields.io/badge/💬_Discord-okay__darling-8A2BE2?style=for-the-badge&labelColor=1a001f">
+  &nbsp;
+  &nbsp;
+  
+  <img src="https://komarev.com/ghpvc/?username=AliceCamposDev&color=8A2BE2&style=for-the-badge">
+</p>
 
 </div>
+
+# 🖤 About Me
+
+```python
+class Alice:
+
+    age = 23
+
+    pronouns = ["She", "Her"]
+
+    role = "Data Scientist"
+
+    languages = [
+        "Portuguese",
+        "English"
+    ]
+
+    discord = "okay_darling"
+
+    likes = [
+        "Coffee",
+        "Tabletop RPG",
+        "AI",
+        "Machine Learning"
+    ]
